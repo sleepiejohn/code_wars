@@ -1,5 +1,5 @@
 defmodule ParenthesesValidator do
-  @moduledoc """
+  @doc """
     ## Examples
 
       iex> ParenthesesValidator.valid_parentheses("(())")
